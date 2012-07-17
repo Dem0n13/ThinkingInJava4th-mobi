@@ -1,2 +1,2 @@
-kindlegen index.opf -c2
+kindlegen index.opf -c0
 pause
