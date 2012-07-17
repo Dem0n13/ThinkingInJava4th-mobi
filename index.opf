@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Thinking in Java, Fourth Edition</dc:title>
+        <dc:creator opf:file-as="Eckel, Bruce" opf:role="aut">Bruce Eckel</dc:creator>
+        <dc:language>en</dc:language>
+    </metadata>
+	<manifest>
+		<item href="index.html" id="html" media-type="application/xhtml+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="html"/>
+	</spine>
+    <guide>
+        <reference type="cover" href="index.html" title="Cover"/>
+		<reference type="toc" href="CLR via CSharp.html#bookmark15" title="Table of Contents"/>
+		<reference type="text" href="CLR via CSharp.html#bookmark706" title="Start"/>
+    </guide>
+</package>

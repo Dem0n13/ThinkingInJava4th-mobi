@@ -1,0 +1,45 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ .font0 { font:8pt Arial, sans-serif; }
+ .font1 { font:25pt Arial, sans-serif; }
+ .font2 { font:10pt Arial Unicode MS, sans-serif; }
+ .font3 { font:11pt Book Antiqua, serif; }
+ .font4 { font:17pt Book Antiqua, serif; }
+ .font5 { font:6pt Consolas, monospace; }
+ .font6 { font:8pt Consolas, monospace; }
+ .font7 { font:9pt Consolas, monospace; }
+ .font8 { font:10pt Consolas, monospace; }
+ .font9 { font:11pt Consolas, monospace; }
+ .font10 { font:12pt CordiaUPC, sans-serif; }
+ .font11 { font:15pt CordiaUPC, sans-serif; }
+ .font12 { font:20pt CordiaUPC, sans-serif; }
+ .font13 { font:9pt David; }
+ .font14 { font:4pt Georgia, serif; }
+ .font15 { font:8pt Georgia, serif; }
+ .font16 { font:9pt Georgia, serif; }
+ .font17 { font:10pt Georgia, serif; }
+ .font18 { font:11pt Georgia, serif; }
+ .font19 { font:12pt Georgia, serif; }
+ .font20 { font:13pt Georgia, serif; }
+ .font21 { font:14pt Georgia, serif; }
+ .font22 { font:16pt Georgia, serif; }
+ .font23 { font:19pt Georgia, serif; }
+ .font24 { font:24pt Georgia, serif; }
+ .font25 { font:32pt Georgia, serif; }
+ .font26 { font:80pt Georgia, serif; }
+ .font27 { font:6pt MS Gothic, monospace; }
+ .font28 { font:11pt SimHei, monospace; }
+ .font29 { font:8pt Times New Roman, serif; }
+ .font30 { font:13pt Times New Roman, serif; }
+ .font31 { font:6pt Verdana, sans-serif; }
+ .font32 { font:7pt Verdana, sans-serif; }
+ .font33 { font:9pt Verdana, sans-serif; }
+ .font34 { font:10pt Verdana, sans-serif; }
+ .font35 { font:13pt Verdana, sans-serif; }
+ .font36 { font:17pt Verdana, sans-serif; }
+ .font37 { font:18pt Verdana, sans-serif; }
+ .font38 { font:22pt Verdana, sans-serif; }
+ .font39 { font:39pt Verdana, sans-serif; }
